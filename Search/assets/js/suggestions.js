@@ -2,6 +2,7 @@ let searchable = [
   {name: '60 Seconds', link: "../60seconds.html"},
   {name: "Assassin's Creed III", link: "../ac3.html"},
   {name: 'Test', link: "../test.html"},
+  {name: '4 - Fast and Furious 9', link: "../fastfur9.html"},
   {name: "Assassin's Creed IV", link: "../ac4.html"},
   {name: "Assassin's Creed Odyssey", link: "../acodyssey.html"},
   {name: "Assassin's Creed Origins", link: "../acorigins.html"},
